@@ -19,7 +19,7 @@ export default function ContactPage() {
         <div className="col-md-6">
           <div className="card shadow-sm mb-4">
             <div className="card-body">
-              <h4 className="card-title mb-4">Get in Touch</h4>
+              <h4 className="card-title mb-4">Contact Us</h4>
               <div>
                 <div className="mb-3">
                   <label htmlFor="name" className="form-label">Name</label>
@@ -62,11 +62,11 @@ export default function ContactPage() {
               <h4 className="card-title mb-4">Contact Information</h4>
               <div className="mb-4">
                 <h6 className="fw-bold">📍 Address</h6>
-                <p className="text-muted">123 Book Street, Reading City, RC 12345</p>
+                <p className="text-muted">123 Book Street, Tripoli , Lebanon</p>
               </div>
               <div className="mb-4">
                 <h6 className="fw-bold">📞 Phone</h6>
-                <p className="text-muted">+1 (555) 123-4567</p>
+                <p className="text-muted">03123456</p>
               </div>
               <div className="mb-4">
                 <h6 className="fw-bold">✉️ Email</h6>

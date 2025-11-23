@@ -19,8 +19,6 @@ export default function BrowseBooksPage({ booksData, addToCart }) {
   return (
     <div className="container my-5">
       <h1 className="mb-4">Browse Our Collection</h1>
-
-      {/* Search and Filter */}
       <div className="row mb-4">
         <div className="col-md-6 mb-3">
           <input

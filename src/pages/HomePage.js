@@ -4,7 +4,7 @@ import FeaturedBookCard from '../components/FeaturedBookCard';
 export default function HomePage({ addToCart, booksData }) {
   return (
     <div>
-      <div className="bg-primary text-white py-5">
+      <div className="text-white py-5" style={{ backgroundColor:"#8c7642ef" }}>
         <div className="container">
           <div className="row align-items-center">
             <div className="col-lg-6">
