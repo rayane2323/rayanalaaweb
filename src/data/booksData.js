@@ -4,6 +4,7 @@ import prideImg from '../Assets/Pride and Prejudice.png';
 import gatsbyImg from '../Assets/The Great Gatsby.png';
 import hobbitImg from '../Assets/The Hobbit.png';
 import mockingbirdImg from '../Assets/To Kill a Mockingbird.png';
+
 export const booksData = [
   {
     id: 1,
