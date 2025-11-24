@@ -1,7 +1,7 @@
 {
   "files": {
     "main.css": "/rayanalaaweb/static/css/main.b64e5b98.css",
-    "main.js": "/rayanalaaweb/static/js/main.2544dc12.js",
+    "main.js": "/rayanalaaweb/static/js/main.4d4fd8bc.js",
     "static/media/About.png": "/rayanalaaweb/static/media/About.aaf6d96b71dec18b3b67.png",
     "static/media/Pride and Prejudice.png": "/rayanalaaweb/static/media/Pride and Prejudice.6165ff710863fd79a955.png",
     "static/media/Hero.png": "/rayanalaaweb/static/media/Hero.3f2f143493f99e02f5c0.png",
@@ -12,10 +12,10 @@
     "static/media/The Great Gatsby.png": "/rayanalaaweb/static/media/The Great Gatsby.305b585f342d64324624.png",
     "index.html": "/rayanalaaweb/index.html",
     "main.b64e5b98.css.map": "/rayanalaaweb/static/css/main.b64e5b98.css.map",
-    "main.2544dc12.js.map": "/rayanalaaweb/static/js/main.2544dc12.js.map"
+    "main.4d4fd8bc.js.map": "/rayanalaaweb/static/js/main.4d4fd8bc.js.map"
   },
   "entrypoints": [
     "static/css/main.b64e5b98.css",
-    "static/js/main.2544dc12.js"
+    "static/js/main.4d4fd8bc.js"
   ]
 }
