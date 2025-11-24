@@ -1,0 +1,21 @@
+{
+  "files": {
+    "main.css": "/rayanalaaweb/static/css/main.b64e5b98.css",
+    "main.js": "/rayanalaaweb/static/js/main.2544dc12.js",
+    "static/media/About.png": "/rayanalaaweb/static/media/About.aaf6d96b71dec18b3b67.png",
+    "static/media/Pride and Prejudice.png": "/rayanalaaweb/static/media/Pride and Prejudice.6165ff710863fd79a955.png",
+    "static/media/Hero.png": "/rayanalaaweb/static/media/Hero.3f2f143493f99e02f5c0.png",
+    "static/media/The Hobbit.png": "/rayanalaaweb/static/media/The Hobbit.011688f36117fb888b69.png",
+    "static/media/George Orwell.png": "/rayanalaaweb/static/media/George Orwell.a0c0276a3708ed3b5350.png",
+    "static/media/To Kill a Mockingbird.png": "/rayanalaaweb/static/media/To Kill a Mockingbird.b0206b995728cce5cf75.png",
+    "static/media/Harry Potter.png": "/rayanalaaweb/static/media/Harry Potter.f7bcf3501d7588bdc1bb.png",
+    "static/media/The Great Gatsby.png": "/rayanalaaweb/static/media/The Great Gatsby.305b585f342d64324624.png",
+    "index.html": "/rayanalaaweb/index.html",
+    "main.b64e5b98.css.map": "/rayanalaaweb/static/css/main.b64e5b98.css.map",
+    "main.2544dc12.js.map": "/rayanalaaweb/static/js/main.2544dc12.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.b64e5b98.css",
+    "static/js/main.2544dc12.js"
+  ]
+}
